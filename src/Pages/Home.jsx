@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Main from '../components/Main/Main'
 import Row from '../components/Row/Row'
 import requests from '../Requests'
